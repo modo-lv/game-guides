@@ -1,8 +1,11 @@
-# "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist" Achievement Guide
+# "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist" Achievement Checklist
 
-**Version:** 1.0.0.0
+**Version:** 1.0.3
 
 **Author:** MoDo_LV, [http://modo.lv](http://modo.lv)
+
+**Origin:** The "home" of this guide is at [http://smartguides.info/](http://smartguides.info/)
+
 
 ## Licence
 
@@ -11,17 +14,17 @@ This guide is licensed under Creative Commons Attribution-NonCommercial-ShareAli
 
 ## Introduction
 
-This is an Achievement guide for "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist" game on Steam. It is a spoiler-free guide, created with the purpose of letting you play through the game on your own, but at the same time helping you get all achievements in a single playthrough.
+This is an Achievement guide for "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist" game on Steam. A spoiler-free guide, created with the purpose of letting you play through the game on your own, but at the same time helping you get all achievements in a single play-through.
 
-There are other guides out there, but I could not find one that had each room with both a simple checklist without going into details, and a detailed guide in case I got stuck. So I decided to make one.
+There are other guides out there, but I could not find one that had each room with both a simple, short checklist, and a detailed guide in case I got stuck. So I decided to make one.
 
 
 
 ## Before you start
 
-* You only get to explore most rooms once — when you leave, the door closes and locks behind you. The only exceptions are the Weather Control and Backstage rooms, which you go through twice during your playthrough.
-* It's a good idea to completely uninstall and re-install the game if you've played it before. There are reports online about previous playthroughs affecting achievements, so a clean reinstall is recommended.
-* The game will disable earning achievements if you switch to another program (Alt+Tab) or open the Steam overlay (Shift+Tab) during your playthrough, so you must stay inside the game from beginning to end. If you have any other programs running in the background that might pop up a window in front of the game or something like that, make sure to close them down. You do *not* have to disable game's overlay in Steam settings (which would also hide the achievement notifications), but you do need to make sure you don't open it.
+* You only get to explore most rooms once — when you leave, the door closes and locks behind you. The only exceptions are the Weather Control and Backstage rooms, which you go through twice during your play-through.
+* It's a good idea to completely uninstall and re-install the game if you've played it before. There are reports online about previous play-throughs affecting achievements, so a clean reinstall is recommended.
+* The game will disable earning achievements if you switch to another program (Alt+Tab) or open the Steam overlay (Shift+Tab) during your play-through, so you must stay inside the game from beginning to end. If you have any other programs running in the background that might pop up a window in front of the game or something like that, make sure to close them down. You do *not* have to disable game's overlay in Steam settings (which would also hide the achievement notifications), but you do need to make sure you don't open it.
 * There is a bug that sometimes prevents pretzels from appearing. If that happens try restarting or reinstalling the game.
 
 
@@ -75,7 +78,7 @@ There are other guides out there, but I could not find one that had each room wi
 
 ### Backstage
 * **Broom**: Next to the "Garden, Ornamental Walkway Entrance" door.
-* **Pretzels (4)**: One behind the curtain next to the entrance, one underneath the brown table, one behind the other curtain, and one behind the broom next to the "Garden, Ornamental Walkway Entrance" door, 
+* **Pretzels (4)**: One behind the curtain next to the entrance, one underneath the brown table, one behind the other curtain, and one behind the broom next to the "Garden, Ornamental Walkway Entrance" door.
 * **Coins (3)**: One on the floor in the corner with a single paint bucket, two on the floor underneath the second curtain.
 
 ### Lighting
@@ -98,7 +101,7 @@ There are other guides out there, but I could not find one that had each room wi
 * **Coins (8)**: One on the floor and one on the chair next to the bottom of the entrance stairs, one on the floor to the right of the "elevator" alcove, two on the floor in front of the "Goodbye" mat, one on the stairs where the green lights are touching the step, one on the left side of the walkway at the top of the stairs and one on the right side some distance further on.
 
 ### High Concept Miscellaneous Interactions
-* **Broom**: Next to the entrance door
+* **Broom**: Next to the entrance door.
 * **Pretzels (5)**: One on the floor in front of the entrance door, one underneath the electricity box next to the entrance door, one on the landing illuminated by the blue stage light, one on the "For Your Safety" sign (at the cubicle entrance), one behind the numeric panel.
 * **Coins (8)**: One on the floor next to the entry door, one on the landing illuminated by the blue stage light, one on the steps very near the top of the stairs, two on the floor in the corner at the top of the stairs, one on and one under the table with the blue phone, and one on the floor next to the yellow leather chair.
 
